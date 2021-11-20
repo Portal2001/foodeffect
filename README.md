@@ -66,4 +66,6 @@ your are welcome to suggest any changers
 
 more features are on the way
 
-Buy me a coffee https://ko-fi.com/fickletcell
+Buy me a coffee 
+- https://ko-fi.com/fickletcell
+- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
