@@ -1,0 +1,8 @@
+name: "foodeffect"
+version: "1.1"
+main: "vb.$foodeffect.PluginMain"
+api-version: 1.13
+author: "fickletcell"
+description: "food gives random effect"
+commands:
+permissions:

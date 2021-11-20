@@ -1,0 +1,1586 @@
+{
+  "plugin.dependencies": "",
+  "plugin.author": "fickletcell",
+  "plugin.description": "food gives random effect",
+  "plugin.version": "1.1",
+  "open-tab": 1,
+  "plugin-components": [
+    {
+      "children": [{
+        "=": "eff14931e00daf05213ef71baa4f2fea",
+        "parameters": [
+          {"=": "6d7e3ffc65ab709a11c739519d54a472"},
+          {
+            "=": "expr-new-string",
+            "parameters": ["&2yo yo"]
+          }
+        ]
+      }],
+      "=": "comp-plugin-enable"
+    },
+    {
+      "children": [{
+        "children": [
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "e9416f4703a5b1c2e64415fb7de9d64c"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "d04cb384a5d1d311552dc3cb8091786c"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "2e15d990550a9a494a09780fa2a495d2"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "51cfc27b878ce3984a158313ef077006"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "2e15d990550a9a494a09780fa2a495d2"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "8b4fd02d225637661fe29d30d37bc2fe"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "c56a9d8877ced116e9d5753776ca154d"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "2fb84b42f9c3dca36b34b24987c43487"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "1dfe8b980db3304ad94f66981027fad9"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "5e7a5f58ac60dab57abe4d10a0be8497"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6ca7dd12715cd90a9112e9e868f0f5d5"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "9ebe2f1e98cfee4c33eab7d804b17a77"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "a5eeb80abed72fe49d50487ee21227dc"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "ceb34fc526532c9b6d3fbdeec4c77dd6"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "35e35444089d2b9edbb33259b3183e47"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "845930068978f3f6a0355939004a6cb7"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "7b2fd9267588b45d3543a782db92d58b"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "b25679286889e776c3999a22b1eb4c1d"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "201c3223802f9f78af1370a2b67219df"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "e2a9ffbcfe579964b9b63ab6e2e05f21"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b8a27ea7eca563dac7dd860bbed587ed"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "af6ddc9b6857d8a24a255685ac6febe6"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "1dfe8b980db3304ad94f66981027fad9"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "fb69ee76dcbb573ec3d009105f7dd9f7"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "ff69cf992735ad03eea4d00036056355"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "f5a762017c254253cf6fe3afdc4cb01f"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b8a27ea7eca563dac7dd860bbed587ed"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "42e088ea1de5725bb437cbefa4bfbd7a"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6d206b45ee8cdcb99a27e04df1acd32e"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "8c14db5fe1b84fd2584412277851249a"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6d206b45ee8cdcb99a27e04df1acd32e"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "da3031fde5129ba981e019bb43d2e35d"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "4232e74397aaff59d81d42379e541faf"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "d303a52220d5db45a7ac1422c60f444f"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "67aaef563268a0380793e7e3c74c5acb"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "9f52f035d595833a94ec3c06d545de70"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b8a27ea7eca563dac7dd860bbed587ed"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "284568daaf041ca1661c24d509eb8f45"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "3d5af0cfb46de81c60c9531bb51db153"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "e8614278517f2ca279d757005b4231fd"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "9441adb837f651822c1979b93974f478"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "14dc7a9ab36518890d3bc0d83bd2dc2d"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b24cb00d23b86e589fff6280422f9adf"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "7374b854e37a9e83995a1449386e01c3"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "68ac9ff7e3571a29eb4737a97bcd7707"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "ee147d175e145d0ea28778bdb58753c1"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "327ebbcf0c02ac6e8eb64a880eae8311"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "c29b502ea2ce2deff1de03955ff33da6"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "65136077cd9850e7df8f2ae2b65d3e1f"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "932ac1e1992fe54b30b01078e8c152ae"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "e95808d437b976c5afca17481b28e2a6"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "783bc62b40aaf22ed92de63a8ff56757"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6d678943bce3618dd777800254aa4eea"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "66a18601c8a41cfe7d4aeb79e06b077c"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "98e3ae7b5fac89c1fac3b700292d6ffe"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "c4fe5cd2dad0917b74de244108f2c49f"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "4d6eb1520235c0a591b62d847111b247"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "60a0ea412f9dee4db7496d50062a8ad8"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6c265b8e2ac16c7267dda72907920cc6"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "46a3e4823e3bec7b8dcb7659986fe0e4"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "6d678943bce3618dd777800254aa4eea"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "c150986e8843b742b65fccb6aca1e37c"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "0e6cf700261783a4d2f7c36a1da3ffc2"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "a69876e56480d0c55858db4df562cb6a"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "0e6cf700261783a4d2f7c36a1da3ffc2"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  null
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "e9672495874e2637ccbf10694816e3b9"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b6bc98d97946394b6ce8fe52b8a0ba69"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "e9672495874e2637ccbf10694816e3b9"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "e95808d437b976c5afca17481b28e2a6"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "f6fda24f382bd080f4b238aad573baca"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "4232e74397aaff59d81d42379e541faf"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "9179fa1b778b352a0d6d1986d56204e2"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "0e6cf700261783a4d2f7c36a1da3ffc2"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  null
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "ca1ffa583a37cb4038c1a1ddf06962ec"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "7aa6b2029a83e4000ec4cd5d9ace184d"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "ca1ffa583a37cb4038c1a1ddf06962ec"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "5b8edf2349048cfe71e4ce62a6e44e8c"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b6bc98d97946394b6ce8fe52b8a0ba69"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "2fa9c578eed555b5fca10c0f8eed04ff"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "b8a27ea7eca563dac7dd860bbed587ed"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "d9cd9867a35ed868d4e8d8ce0759718f"}
+                ]
+              },
+              "normal"
+            ]
+          },
+          {
+            "children": [{
+              "=": "0d13d2e2f421561fe659e0bb451ab12a",
+              "parameters": [
+                {"=": "0ec99bca7a9651847325b32a4a7dcef0"},
+                {
+                  "=": "db2c14e41f03fca1b5948019094e712c",
+                  "parameters": [
+                    {"=": "a5eeb80abed72fe49d50487ee21227dc"},
+                    {
+                      "=": "expr-number",
+                      "parameters": ["100"]
+                    },
+                    {
+                      "=": "expr-number",
+                      "parameters": ["3"]
+                    }
+                  ]
+                }
+              ]
+            }],
+            "=": "stat-if-statement",
+            "parameters": [
+              {
+                "=": "expr-is-equal",
+                "parameters": [
+                  {
+                    "=": "aa4ca8bf26e0ae339eb41495bcd49dcf",
+                    "parameters": [{"=": "5d5b86d563e6920b7e3a845b739775bf"}]
+                  },
+                  {"=": "2e17e798f20408b19ee45fa03deffae9"}
+                ]
+              },
+              "normal"
+            ]
+          }
+        ],
+        "=": "stat-schedule-task",
+        "parameters": [
+          "sync",
+          "run once",
+          {
+            "=": "expr-number",
+            "parameters": ["10"]
+          }
+        ]
+      }],
+      "=": "comp-event-listener",
+      "parameters": [
+        "PlayerItemConsumeEvent",
+        "NORMAL"
+      ]
+    },
+    {
+      "children": [{
+        "=": "eff14931e00daf05213ef71baa4f2fea",
+        "parameters": [
+          {"=": "6d7e3ffc65ab709a11c739519d54a472"},
+          {
+            "=": "expr-new-string",
+            "parameters": ["&2yo yo"]
+          }
+        ]
+      }],
+      "=": "comp-plugin-disable"
+    }
+  ],
+  "plugin.website": "",
+  "plugin.soft-dependencies": "",
+  "plugin.name": "foodeffect"
+}
