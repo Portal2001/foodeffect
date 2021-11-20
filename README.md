@@ -7,7 +7,6 @@ Features:-
 - no lag
 - permission based
 - easy to use
-- optimized code
 - good for UHC,mini game server may be survival
 - all types of food is supported total 40 types
 - semi config able(for now)
