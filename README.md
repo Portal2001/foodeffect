@@ -57,6 +57,8 @@ List of food Supported:-
 - glow berries
 - beetroot
 
+![2021-11-20_17 58 57](https://user-images.githubusercontent.com/74851280/142726328-a25968f6-0c9a-4837-9387-ce1bcf8e4458.png)
+
 
 Disclamer:-
 
@@ -65,4 +67,3 @@ your are welcome to suggest any changers
 more features are on the way
 
 Buy me a coffee https://ko-fi.com/fickletcell
-![2021-11-20_17 58 57](https://user-images.githubusercontent.com/74851280/142726328-a25968f6-0c9a-4837-9387-ce1bcf8e4458.png)
