@@ -66,5 +66,5 @@ your are welcome to suggest any changers
 more features are on the way
 
 Buy me a coffee 
-- https://ko-fi.com/fickletcell
-- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fickletcell?)
